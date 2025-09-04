@@ -34,15 +34,15 @@ To make Katsina a **hub of Python innovation**, empowering youths with skills in
 
 ## 🏆 Achievements
 - 🎓 Trained **hundreds of students** across Katsina institutions  
-- 🤝 Founded the **Python Hausa** and **Python Niger** communities  
-- 📢 Organized local events and participated in **PyCon Africa/Nigeria**  
+- 🤝 Initiatives **PyClubs**, **PyLadiesKatsina**,  **PyKids** and **PyScholars**   
+- 📢 Organized local events, mentorships, and workshops 
 
 ---
 
 ## 💡 How to Join
 Want to be part of the journey? 🚀  
 1. ⭐ Star this repository  
-2. 📝 Register for events via our [Official Website](https://python.org) _(placeholder link)_  
+2. 📝 Register for events via our [Official Website](https://pythonkatsina.org) _(placeholder link)_  
 3. 💬 Join discussions in our community groups  
 
 ![Community](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
@@ -50,7 +50,7 @@ Want to be part of the journey? 🚀
 ---
 
 ## 📌 Connect with Us
-- 🌐 Website: [python-katsina.org](#)  
+- 🌐 Website: [pythonkatsina.org](#)  
 - 🐦 Twitter: [@PythonKatsina](#)  
 - 💬 WhatsApp/Telegram: (Community link)  
 
